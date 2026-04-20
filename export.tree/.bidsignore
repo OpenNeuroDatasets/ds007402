@@ -1,0 +1,15 @@
+*.zip
+*_qc.*
+*_design.*
+*_motion.*
+atlases
+*.html
+log
+logs
+figures
+*_xfm.*
+*_mixing.tsv
+*_timeseries.tsv
+*space-*
+*atlas-*
+*_mask.*
