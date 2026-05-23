@@ -1,0 +1,13 @@
+{
+  "FWHM": 6,
+  "SoftwareFilters": {
+    "Bandpass filter": {
+      "Filter order": 2,
+      "High-pass cutoff (Hz)": 0.01,
+      "Low-pass cutoff (Hz)": 0.08
+    }
+  },
+  "Sources": [
+    "bids::sub-21112/ses-1/func/sub-21112_ses-1_task-nback_run-01_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
+  ]
+}

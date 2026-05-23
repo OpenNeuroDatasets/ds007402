@@ -1,0 +1,6 @@
+{
+  "Sources": [
+    "bids:atlas:atlas-4S456Parcels/atlas-4S456Parcels_space-fsLR_den-91k_dseg.dlabel.nii",
+    "bids::sub-20860/ses-1/func/sub-20860_ses-1_task-rest_run-02_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
+  ]
+}

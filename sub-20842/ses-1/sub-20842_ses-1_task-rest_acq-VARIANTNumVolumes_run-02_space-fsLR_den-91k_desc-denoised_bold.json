@@ -1,0 +1,24 @@
+{
+  "DelayTime": 0.10000000000000009,
+  "Density": "91,282 grayordinates corresponding to all of the grey matter sampled at a 2mm average vertex spacing on the surface and as 2mm voxels subcortically",
+  "RepetitionTime": 0.8,
+  "SliceTimingCorrected": true,
+  "SoftwareFilters": {
+    "Bandpass filter": {
+      "Filter order": 2,
+      "High-pass cutoff (Hz)": 0.01,
+      "Low-pass cutoff (Hz)": 0.08
+    }
+  },
+  "Sources": [
+    "bids:preprocessed:sub-20842/ses-1/func/sub-20842_ses-1_task-rest_acq-VARIANTNumVolumes_run-02_space-fsLR_den-91k_bold.dtseries.nii",
+    "bids::sub-20842/ses-1/func/sub-20842_ses-1_task-rest_acq-VARIANTNumVolumes_run-02_design.tsv"
+  ],
+  "SpatialReference": {
+    "CIFTI_STRUCTURE_LEFT_CORTEX": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_den-32k_hemi-L_midthickness.surf.gii",
+    "CIFTI_STRUCTURE_RIGHT_CORTEX": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_den-32k_hemi-R_midthickness.surf.gii",
+    "VolumeReference": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_T1w.nii.gz"
+  },
+  "StartTime": 0.35,
+  "TaskName": "rest"
+}

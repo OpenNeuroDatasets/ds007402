@@ -1,0 +1,7 @@
+{
+  "Sources": [
+    "bids:atlas:atlas-HCP/atlas-HCP_space-fsLR_den-91k_dseg.dlabel.nii",
+    "bids::sub-20252/ses-2/func/sub-20252_ses-2_task-nback_run-01_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii",
+    "bids::sub-20252/ses-2/func/sub-20252_ses-2_task-nback_run-01_space-fsLR_seg-HCP_den-91k_stat-coverage_boldmap.pscalar.nii"
+  ]
+}
