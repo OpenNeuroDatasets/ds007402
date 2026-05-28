@@ -1,10 +1,16 @@
-# Penn LEAD XCP-D Derivatives
+## Description of Dataset
 
-This dataset contains XCP-D derivatives for the Penn LEAD dataset (https://openneuro.org/datasets/ds007116)!
+Penn LEAD (Penn Longitudinal Executive functioning in Adolescent Development) is a data resource designed to investigate transdiagnostic executive function during development.
 
-There were over 100k files in the derivatives, which made uploading prohibitively slow.
-To work around this, we zipped each datatype folder (e.g., "sub-01/ses-01/func.zip").
-If you download this dataset, you will need to unzip these folders.
+This repository contains data derivatives from running XCP-D.
+We provide derivatives including post-processed clean BOLD time series that are denoised, filtered, and censored, and ALFF and ReHo derivative maps. Preprocessed data from running fMRIPrep, which was used as input for XCP-D, can be found [here.] (https://openneuro.org/datasets/ds007088)
+
+The link to the accompanying raw dataset is here: https://openneuro.org/datasets/ds007116 [accession number ds007116].
+
+The Docker Hub link for XCP-D is [here.](https://hub.docker.com/layers/pennlinc/xcp_d/0.10.7/images/sha256-fa10fe96b9ed1cb63322cfebc7dff8a21b7dcca84487b977c06be3d2c863f33a)
+
+The quality control recommendations for fMRI can be found on [Github](https://github.com/PennLINC/transdiagnostic_executive_function/tree/main/QC/qc_csvs/final_QC_csvs). Both QC recommendations for fMRI and T1 structural data should be taken into account for fMRI data.
+
 
 The command used to XCP-D was:
 
