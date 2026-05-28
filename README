@@ -1,6 +1,6 @@
 # Penn LEAD XCP-D Derivatives
 
-This dataset contains XCP-D derivatives for the Penn LEAD dataset (https://openneuro.org/datasets/ds007116).
+This dataset contains XCP-D derivatives for the Penn LEAD dataset (https://openneuro.org/datasets/ds007116)!
 
 There were over 100k files in the derivatives, which made uploading prohibitively slow.
 To work around this, we zipped each datatype folder (e.g., "sub-01/ses-01/func.zip").
