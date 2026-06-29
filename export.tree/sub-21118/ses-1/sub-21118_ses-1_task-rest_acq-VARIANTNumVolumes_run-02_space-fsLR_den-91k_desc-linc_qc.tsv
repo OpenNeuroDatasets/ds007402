@@ -1,2 +1,0 @@
-sub	ses	task	acq	run	space	den	mean_fd	mean_fd_post_censoring	mean_relative_rms	max_relative_rms	mean_dvars_initial	mean_dvars_final	num_dummy_volumes	num_censored_volumes	num_retained_volumes	fd_dvars_correlation_initial	fd_dvars_correlation_final
-21118	1	rest	VARIANTNumVolumes	02	fsLR	91k	0.1632789500761853	0.1632789500761853	0.0950186518605111	0.6798592306958137	1.1081345879678566	1.081220059237331	5	0	517	0.5671104569098653	0.021375297959828336

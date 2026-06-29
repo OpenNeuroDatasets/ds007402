@@ -1,8 +1,0 @@
-{
-  "SamplingFrequency": "TR",
-  "Sources": [
-    "bids:atlas:atlas-4S656Parcels/atlas-4S656Parcels_space-fsLR_den-91k_dseg.dlabel.nii",
-    "bids::sub-21139/ses-1/func/sub-21139_ses-1_task-rest_run-01_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii",
-    "bids::sub-21139/ses-1/func/sub-21139_ses-1_task-rest_run-01_space-fsLR_seg-4S656Parcels_stat-coverage_bold.tsv"
-  ]
-}

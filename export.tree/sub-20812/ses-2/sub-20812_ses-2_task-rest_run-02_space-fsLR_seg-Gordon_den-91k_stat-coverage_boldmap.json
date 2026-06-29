@@ -1,6 +1,0 @@
-{
-  "Sources": [
-    "bids:atlas:atlas-Gordon/atlas-Gordon_space-fsLR_den-91k_dseg.dlabel.nii",
-    "bids::sub-20812/ses-2/func/sub-20812_ses-2_task-rest_run-02_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
-  ]
-}

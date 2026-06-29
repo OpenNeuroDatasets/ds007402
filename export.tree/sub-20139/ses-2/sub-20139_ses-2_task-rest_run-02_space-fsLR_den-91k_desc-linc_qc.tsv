@@ -1,2 +1,0 @@
-sub	ses	task	run	space	den	mean_fd	mean_fd_post_censoring	mean_relative_rms	max_relative_rms	mean_dvars_initial	mean_dvars_final	num_dummy_volumes	num_censored_volumes	num_retained_volumes	fd_dvars_correlation_initial	fd_dvars_correlation_final
-20139	2	rest	02	fsLR	91k	0.13421340704212067	0.13421340704212067	0.07673067321845449	0.2646496359940861	1.0760881976702674	1.11705554350383	5	0	378	0.5509329798164482	0.10626423534790666

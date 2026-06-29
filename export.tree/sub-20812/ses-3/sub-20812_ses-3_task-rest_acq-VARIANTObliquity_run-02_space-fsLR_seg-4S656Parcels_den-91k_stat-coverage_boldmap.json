@@ -1,6 +1,0 @@
-{
-  "Sources": [
-    "bids:atlas:atlas-4S656Parcels/atlas-4S656Parcels_space-fsLR_den-91k_dseg.dlabel.nii",
-    "bids::sub-20812/ses-3/func/sub-20812_ses-3_task-rest_acq-VARIANTObliquity_run-02_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
-  ]
-}

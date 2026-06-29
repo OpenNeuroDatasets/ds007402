@@ -1,6 +1,0 @@
-{
-  "Sources": [
-    "bids:atlas:atlas-Glasser/atlas-Glasser_space-fsLR_den-91k_dseg.dlabel.nii",
-    "bids::sub-20302/ses-1/func/sub-20302_ses-1_task-rest_run-01_space-fsLR_den-91k_stat-alff_boldmap.dscalar.nii"
-  ]
-}

@@ -1,6 +1,0 @@
-{
-  "Sources": [
-    "bids:atlas:atlas-Tian/atlas-Tian_space-fsLR_den-91k_dseg.dlabel.nii",
-    "bids::sub-20188/ses-3/func/sub-20188_ses-3_task-rest_acq-VARIANTNumVolumesObliquity_run-02_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
-  ]
-}
