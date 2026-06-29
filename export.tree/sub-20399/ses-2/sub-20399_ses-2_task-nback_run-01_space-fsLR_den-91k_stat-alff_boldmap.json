@@ -1,0 +1,12 @@
+{
+  "SoftwareFilters": {
+    "Bandpass filter": {
+      "Filter order": 2,
+      "High-pass cutoff (Hz)": 0.01,
+      "Low-pass cutoff (Hz)": 0.08
+    }
+  },
+  "Sources": [
+    "bids::sub-20399/ses-2/func/sub-20399_ses-2_task-nback_run-01_space-fsLR_den-91k_desc-denoised_bold.dtseries.nii"
+  ]
+}

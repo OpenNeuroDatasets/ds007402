@@ -1,0 +1,6 @@
+{
+  "Sources": [
+    "bids:atlas:atlas-HCP/atlas-HCP_space-fsLR_den-91k_dseg.dlabel.nii",
+    "bids::sub-20842/ses-1/func/sub-20842_ses-1_task-rest_acq-VARIANTNumVolumes_run-02_space-fsLR_den-91k_stat-alff_boldmap.dscalar.nii"
+  ]
+}
