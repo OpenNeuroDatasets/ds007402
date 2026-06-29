@@ -3,7 +3,7 @@
 Penn LEAD (Penn Longitudinal Executive functioning in Adolescent Development) is a data resource designed to investigate transdiagnostic executive function during development.
 
 This repository contains data derivatives from running XCP-D.
-We provide derivatives including post-processed clean BOLD time series that are denoised, filtered, and censored, and ALFF and ReHo derivative maps. Preprocessed data from running fMRIPrep, which was used as input for XCP-D, can be found [here] (https://openneuro.org/datasets/ds007088).
+We provide derivatives including post-processed clean BOLD time series that are denoised, filtered, and censored, and ALFF and ReHo derivative maps. Preprocessed data from running fMRIPrep, which was used as input for XCP-D, can be found [here](https://openneuro.org/datasets/ds007088).
 
 The link to the accompanying raw dataset is here: https://openneuro.org/datasets/ds007116 [accession number ds007116].
 
